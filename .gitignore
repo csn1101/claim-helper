@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfplan
+
+# Secrets and local settings
+.env
+.env.*
+
+# Real documents: never commit these
+private_data/
+
+/project_details.md
