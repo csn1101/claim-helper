@@ -1,0 +1,27 @@
+MERIDIAN SHIELD HEALTH INSURANCE CO. LTD.
+Claims Department, 4th Floor, Harbour Point, Mumbai 400001
+Toll free: 1800 000 1101 | Email: claims@meridianshield.example
+
+19 September 2026
+Claim Reference No.: MSH/CL/2026/007320
+Policy No.: MSH-FP-2287719
+
+To,
+Mr. Vikram Joshi
+22, Satellite Park Society, Ahmedabad 380015
+
+Subject: Claim MSH/CL/2026/007320 - not payable
+
+Dear Mr. Joshi,
+
+We have reviewed the claim of Rs. 21,800 for the treatment of Mrs. Neha Joshi at Riverside General Hospital, Ahmedabad. The patient was admitted on 03/09/2026 at 6:30 PM and discharged on 04/09/2026 at 2:10 PM, with a diagnosis of viral fever with dehydration treated with intravenous fluids.
+
+The total stay in hospital was 19 hours and 40 minutes. Clause 2.15 (Definition - Hospitalisation) requires an in-patient stay of at least 24 consecutive hours, except for the day-care procedures listed in Annexure I. The treatment given is not included in that list.
+
+The claim does not meet the policy definition of hospitalisation and is not payable. Amount payable: Rs. 0.
+
+Yours faithfully,
+Claims Department
+Meridian Shield Health Insurance Co. Ltd.
+
+[Synthetic sample for software testing. All names, numbers and details are fictional.]

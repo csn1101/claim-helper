@@ -1,0 +1,27 @@
+SUNRISE CARE GENERAL INSURANCE LTD.
+Health Claims Hub, Banjara Hills Road No. 3, Hyderabad 500034
+Customer Care: 1800 000 2202 | claims@sunrisecare.example
+
+20 February 2026
+
+Claim No: SCG-2026-HC-33120
+Policy No: SCG-HI-7765102
+Policyholder: Mrs. Sunita Rao
+
+Dear Mrs. Rao,
+
+Sub: Claim dated 03 February 2026 - Decision
+
+This is with reference to the claim for Mrs. Sunita Rao, who was admitted to Sri Venkateshwara Hospital, Hyderabad from 02 Feb 2026 to 04 Feb 2026 with a diagnosis of acute gastroenteritis. The total bill amount is INR 38,500.
+
+Your policy was issued with effect from 10 January 2026. The date of admission falls within 30 days of the policy start date (23 days from inception).
+
+Under Clause 3.2 (Initial Waiting Period), no claim is admissible for any illness contracted or manifested during the first 30 days from the first policy start date, except claims arising from accidents. The present hospitalisation is for an illness and no accidental cause has been reported.
+
+We are therefore unable to admit the claim. Claim amount admitted: INR 0.
+
+Regards,
+Claims Team
+Sunrise Care General Insurance Ltd.
+
+[Synthetic sample for software testing. All names, numbers and details are fictional.]

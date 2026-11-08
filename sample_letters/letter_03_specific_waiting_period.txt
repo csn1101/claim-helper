@@ -1,0 +1,30 @@
+KAVERI HEALTH INSURANCE LTD.
+Claims Processing Unit, Marine Drive, Kochi 682031
+Phone: 1800 000 3303 | Mail: servicing@kaverihealth.example
+
+28th May 2026
+
+Claim No.: KHI/R/26/0099214
+Policy No.: KHI-1-558201
+Name of Policyholder: Mr. Ravi Shankar Pillai
+Name of Patient: Mrs. Meenakshi Pillai (Spouse)
+
+Dear Sir,
+
+Re: Settlement of your reimbursement claim
+
+We have processed your claim for the day-care surgery of Mrs. Meenakshi Pillai at Coastal Eye & Surgical Centre, Kochi. The patient was admitted on 05/05/2026 and discharged on 06/05/2026. The amount claimed is ₹72,000/-.
+
+The procedure performed is phacoemulsification with intraocular lens implantation for senile cataract of the right eye.
+
+Your policy started on 15/09/2025. Clause 5.3 of the policy lists cataract among the conditions with a specific waiting period of 24 months from the policy start date. The treatment was availed less than 8 months after the policy start date, before the waiting period ended.
+
+Hence the claim is not payable under the policy. Amount approved: ₹0.
+
+We regret the inconvenience.
+
+Sincerely,
+Authorised Signatory
+Kaveri Health Insurance Ltd.
+
+[Synthetic sample for software testing. All names, numbers and details are fictional.]

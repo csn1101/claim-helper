@@ -1,0 +1,31 @@
+MERIDIAN SHIELD HEALTH INSURANCE CO. LTD.
+Claims Department, 4th Floor, Harbour Point, Mumbai 400001
+Toll free: 1800 000 1101 | Email: claims@meridianshield.example
+
+Date: 02/04/2026
+Claim Reference No.: MSH/CL/2026/004871
+Policy No.: MSH-FP-1029384
+
+To,
+Mr. Anil Deshpande
+Flat 12, Sai Residency, Kothrud, Pune 411038
+
+Subject: Repudiation of claim - Claim No. MSH/CL/2026/004871
+
+Dear Mr. Deshpande,
+
+We refer to the reimbursement claim submitted by you for the hospitalisation of Mr. Anil Deshpande (the Insured) at Lotus Multispeciality Hospital, Pune from 14/03/2026 to 19/03/2026, for a total claimed amount of Rs. 2,45,000/-.
+
+After examining the claim documents, we regret to inform you that the claim is not payable. The discharge summary and the earlier prescriptions submitted by you indicate that the Insured has been under treatment for Type 2 Diabetes Mellitus since 2021. The present admission, for an infected diabetic foot ulcer, is a complication of this condition. The policy commenced on 01/08/2024, so the condition existed before the policy start date.
+
+As per Clause 4.1(b) of the policy terms and conditions (Pre-existing Diseases), claims arising from pre-existing diseases are not payable until 36 months of continuous coverage have been completed. On the date of admission, 19 months of continuous coverage had been completed.
+
+Accordingly, the claim is repudiated in full. Amount payable: Rs. 0.
+
+If you are not satisfied with this decision, you may write to our Grievance Redressal Officer at grievance@meridianshield.example within the period stated in the policy document.
+
+Yours faithfully,
+Claims Department
+Meridian Shield Health Insurance Co. Ltd.
+
+[Synthetic sample for software testing. All names, numbers and details are fictional.]

@@ -1,0 +1,35 @@
+ARAVALI ASSURANCE CO. LTD.
+Claims Settlement Cell, MG Road, Bengaluru 560001
+Customer Support: 1800 000 5505 | settle@aravaliassurance.example
+
+Date: 18-07-2026
+Claim No.: AAC/2026/HOSP/118273
+Policy No.: AAC-FH-9081123
+Policyholder: Ms. Priya Nair
+Patient: Mr. Mohan Nair (Father)
+Sum Insured: Rs. 5,00,000
+
+Dear Ms. Nair,
+
+Subject: Partial settlement of claim
+
+Your claim for the hospitalisation of Mr. Mohan Nair at Metro Care Hospital, Bengaluru (20 June 2026 to 27 June 2026, 7 days) has been processed. The total amount claimed is Rs. 3,10,600.
+
+Settlement summary:
+Room rent charged (Rs. 8,000 per day x 7 days)                     Rs. 56,000
+Room rent admissible (Rs. 5,000 per day x 7 days)                  Rs. 35,000
+Surgeon, anaesthetist and OT charges claimed                       Rs. 1,50,000
+Surgeon, anaesthetist and OT charges admitted (62.5%)              Rs. 93,750
+Medicines, investigations and other charges                        Rs. 1,04,600
+Total deductions                                                   Rs. 77,250
+Net amount payable                                                 Rs. 2,33,350
+
+Reason for deduction: Clause 6.2 (Room Rent Limit) restricts the eligible room rent to 1% of the sum insured per day (Rs. 5,000). As the room occupied was charged at a higher rate, the associated professional and OT charges have been reduced in the same proportion (5,000 / 8,000 = 62.5%) as per Clause 6.2(c).
+
+An amount of Rs. 2,33,350 will be paid by NEFT to the bank account registered with us, within 7 working days.
+
+Regards,
+Claims Settlement Cell
+Aravali Assurance Co. Ltd.
+
+[Synthetic sample for software testing. All names, numbers and details are fictional.]

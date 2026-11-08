@@ -1,0 +1,25 @@
+ARAVALI ASSURANCE CO. LTD.
+Claims Settlement Cell, MG Road, Bengaluru 560001
+Customer Support: 1800 000 5505 | settle@aravaliassurance.example
+
+Date: 02/09/2026
+Claim No.: AAC/2026/HOSP/125518
+Policy No.: AAC-FH-7743021
+Policyholder: Mr. Sanjay Kulkarni
+Patient: Mrs. Rekha Kulkarni
+
+Dear Mr. Kulkarni,
+
+Subject: Claim declined - excluded treatment
+
+We have examined your claim of Rs. 1,35,000 for the procedure undergone by Mrs. Rekha Kulkarni at Elite Aesthetic & Surgical Centre, Nagpur between 12/08/2026 and 14/08/2026. The procedure was rhinoplasty (reshaping of the nose).
+
+Clause 6.5(c) (Exclusions) states that cosmetic or plastic surgery is not covered, unless it is necessitated by an accident, burns or cancer. The documents submitted do not show any history of accidental injury, burns or cancer.
+
+Therefore the claim is declined under this exclusion. Amount payable: Rs. 0.
+
+Regards,
+Claims Settlement Cell
+Aravali Assurance Co. Ltd.
+
+[Synthetic sample for software testing. All names, numbers and details are fictional.]

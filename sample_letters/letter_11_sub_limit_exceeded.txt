@@ -1,0 +1,29 @@
+KAVERI HEALTH INSURANCE LTD.
+Claims Processing Unit, Marine Drive, Kochi 682031
+Phone: 1800 000 3303 | Mail: servicing@kaverihealth.example
+
+30 October 2026
+
+Claim No.: KHI/R/26/0133378
+Policy No.: KHI-1-990412
+Policyholder / Patient: Mr. Karthik Subramanian
+
+Dear Sir,
+
+Subject: Settlement of claim - sub-limit applied
+
+Your claim for the surgical repair of an inguinal hernia at Lakeview Hospital, Coimbatore (admitted 08/10/2026, discharged 11/10/2026) has been processed.
+
+Amount claimed: Rs. 94,500
+Amount approved: Rs. 60,000
+Amount not payable: Rs. 34,500
+
+Reason: As per the Schedule of Benefits (Sub-limit Item 5), expenses for hernia surgery are payable up to Rs. 60,000 per policy year. The eligible bills exceed this limit, and the balance of Rs. 34,500 is therefore not payable.
+
+The approved amount of Rs. 60,000 will be transferred to your registered bank account within 7 working days.
+
+Sincerely,
+Authorised Signatory
+Kaveri Health Insurance Ltd.
+
+[Synthetic sample for software testing. All names, numbers and details are fictional.]

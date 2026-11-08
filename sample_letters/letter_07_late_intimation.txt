@@ -1,0 +1,27 @@
+KAVERI HEALTH INSURANCE LTD.
+Claims Processing Unit, Marine Drive, Kochi 682031
+Phone: 1800 000 3303 | Mail: servicing@kaverihealth.example
+
+14-Aug-2026
+
+Claim No.: KHI/R/26/0120456
+Policy No.: KHI-1-771320
+Policyholder / Patient: Mrs. Lakshmi Iyer
+
+Dear Madam,
+
+Subject: Rejection of reimbursement claim - delay in intimation
+
+Your claim of Rs. 95,200 for emergency hospitalisation at Anna Nagar Surgical Hospital, Chennai (admitted 09/07/2026, discharged 12/07/2026) for acute appendicitis with appendectomy was first received by us on 28/07/2026, and the supporting documents on 30/07/2026.
+
+Clause 9.1 (Notice of Claim) requires that, in the case of emergency hospitalisation, the Company be informed within 48 hours of admission. The first intimation reached us 19 days after the date of admission. No reason for the delay was given in the claim form.
+
+On this ground the claim cannot be considered and is rejected. Amount payable: Rs. 0.
+
+Kindly quote the claim number in all further correspondence.
+
+Sincerely,
+Claims Processing Unit
+Kaveri Health Insurance Ltd.
+
+[Synthetic sample for software testing. All names, numbers and details are fictional.]
